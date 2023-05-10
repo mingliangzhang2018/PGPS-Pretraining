@@ -20,7 +20,7 @@ In default, unzip the dataset file to the fold `./datasets`.
 
 ## Pre-training
 
-The default parameter configurations are set in the config files `./config/config_default.py` and the 
+The default parameter configurations are set in the config file `./config/config_default.py` and the 
 default training modes are displayed in `./sh_files/train.sh`, for example,
 
 ```
