@@ -29,4 +29,4 @@ CUDA_VISIBLE_DEVICES=0 python -m torch.distributed.launch \
 --master_port=$((RANDOM + 10000)) \
 start.py
 ```
-The training records of pre-training are saved in the folder `./log`. In default, we choose the model of last epoch as the pre-trained language model.   
+The training records of pre-training are saved in the folder `./log`. We choose the model of last epoch as the pre-trained language model.   
