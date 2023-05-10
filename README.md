@@ -1,5 +1,5 @@
 # PGPS-Pretraining
-The Structural and Semantic Pre-training Language Model of [PGPSNet](https://github.com/mingliangzhang2018/PGPS)
+The structural and semantic pre-training language model of [PGPSNet](https://github.com/mingliangzhang2018/PGPS).
 
 <div align=center>
 	<img width="800" src="images\Pre-training.png">
@@ -10,7 +10,7 @@ The Structural and Semantic Pre-training Language Model of [PGPSNet](https://git
 
 ## Environmental Settings
 
-They are the same as [PGPSNet](https://github.com/mingliangzhang2018/PGPS)
+They are the same as [PGPSNet](https://github.com/mingliangzhang2018/PGPS).
 
 ## PGPS9K Dataset
 
@@ -18,7 +18,7 @@ You could download the dataset from [Dataset Homepage](http://www.nlpr.ia.ac.cn/
 
 In default, unzip the dataset file to the fold `./datasets`.
 
-## Training
+## Pre-training
 
 The default parameter configurations are set in the config files `./config/config_default.py` and the 
 default training modes are displayed in `./sh_files/train.sh`, for example,
