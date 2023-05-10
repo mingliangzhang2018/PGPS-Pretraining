@@ -5,7 +5,7 @@ The Structural and Semantic Pre-training Language Model of [PGPSNet](https://git
 	<img width="800" src="images\Pre-training.png">
 </div>
 <div align=center>
-	Figure 2. Pipeline of structural and semantic pre-training.
+	Figure 1. Pipeline of structural and semantic pre-training.
 </div>
 
 ## Environmental Settings
