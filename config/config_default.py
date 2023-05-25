@@ -55,7 +55,7 @@ def get_parser():
     # dataset      
     #################################################################################
     parser.add_argument('--dataset', default="PGPS9K", type=str, choices=dataset_list)
-    parser.add_argument('--dataset_dir', default='/lustre/home/mlzhang/Datasets/PGPS9K_all')
+    parser.add_argument('--dataset_dir', default='./datasets/PGPS9K_all')
     parser.add_argument('--pretrain_vis_path', default='')
     parser.add_argument('--vocab_src_path', default='./vocab/vocab_src.txt')
     parser.add_argument('--vocab_tgt_path', default='./vocab/vocab_tgt.txt')
